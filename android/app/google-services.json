@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "223189078613",
+    "firebase_url": "https://recipeapp-616b6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "recipeapp-616b6",
+    "storage_bucket": "recipeapp-616b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223189078613:android:9df94fcb4acf4c9affbadc",
+        "android_client_info": {
+          "package_name": "com.Ilhamgz.flutter_recipee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3LmxTyCjwlPEKx4BhtCGbxryqycqmD2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
